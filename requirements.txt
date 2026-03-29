@@ -1,5 +1,6 @@
-tensorflow==2.18.0
+tensorflow>=2.16.1
+keras>=3.0
 streamlit
 opencv-python-headless
-numpy<2.0.0
+numpy
 pillow
